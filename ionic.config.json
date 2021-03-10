@@ -1,0 +1,7 @@
+{
+  "name": "modals-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
